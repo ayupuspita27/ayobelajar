@@ -6938,3 +6938,7 @@ body{
   float: right;
 }
 /*# sourceMappingURL=style.css.map */
+.panduan {
+  width: 100%;
+  min-height: 200px;
+}
